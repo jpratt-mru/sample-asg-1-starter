@@ -1,0 +1,18 @@
+2017-06-16 16:15:07 [main] AssignmentMain.main()
+INFO: 304a 
+2017-06-16 16:15:07 [main] AssignmentMain.main()
+INFO: 524d 
+2017-06-16 16:15:07 [main] AssignmentMain.main()
+INFO: 306f 
+2017-06-16 16:15:07 [main] AssignmentMain.main()
+INFO: 3082 
+2017-06-16 16:15:07 [main] AssignmentMain.main()
+INFO: 3046 
+2017-06-16 16:15:07 [main] AssignmentMain.main()
+INFO: 6b7b 
+2017-06-16 16:15:07 [main] AssignmentMain.main()
+INFO: 3093 
+2017-06-16 16:15:07 [main] AssignmentMain.main()
+INFO: 3067 
+2017-06-16 16:15:07 [main] AssignmentMain.main()
+INFO: 308b 
